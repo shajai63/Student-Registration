@@ -1,8 +1,8 @@
 # Student Registration
 
-# Technologies Used: 
+# Technologies Used : 
   Spring Boot, MySQL
 
-# Description: 
+# Description : 
   Developed a student registration system that allows for adding, editing, and removing student information. Implemented CRUD operations with a MySQL database for efficient data     
   management.
